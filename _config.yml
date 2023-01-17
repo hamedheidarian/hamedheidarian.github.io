@@ -169,12 +169,12 @@ work:
 
 
 topics:
-  - name: Java
+  - name: Distributed Systems
 
-  - name: Design Patterns
+  - name: Data Intensive Applications
 
   - name: Software Architecture
 
   - name: Agile (Scrum)
 
-  - name: Micro Services
+  - name: Quantitative Trading
