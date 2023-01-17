@@ -16,9 +16,7 @@ defaults:
     values:
       layout: "post"
 
-bio: "Besides that, I enjoy reading comics, solving puzzles, playing music"
-# bio: "Besides that, I enjoy reading comics, solving puzzles, automating things, and I love playing music"
-# (currently I'm learning <a href='https://en.wikipedia.org/wiki/Setar'>Setar</a>).
+bio: "Besides that, I enjoy go climbing, solving puzzles, travelling"
 
 
 about: "I'm Hamed, a software developer"
