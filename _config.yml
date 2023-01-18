@@ -60,9 +60,23 @@ work:
     start: "2021"
     end: "2019"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> Designed a multi-level job caching mechanism, improved the response time +30 times faster than the baseline model</li>
-      <li> Implemented a scalable caching service using ASP.NET, CosmosDB, and Azure Storage </li>
-    </ul>"
+
+        <li>Worked as a full-stack developer in Moneasy wallet using Java,
+    Playframework, Hibernate, Postgresql, Angular, Redis and did some
+    infrastructure works using Docker, Kubernetes, Nginx as well as some
+    development in android client. We strived for developing this product
+    using reactive programming paradigm as much as possible and also
+    conforming to clean code and clean architecture principles. Some
+    important features designed and developed by me are as follow:/li>
+
+    <li>Campaigning and discount codes</li>
+    <li>Shared accounts and force-invoice accounts</li>
+    <li>Brute Force attack prevention system</li>
+    <li>BI dashboard</li>
+    Implementation of a new invoice system, etc
+          <li> Designed a multi-level job caching mechanism, improved the response time +30 times faster than the baseline model</li>
+          <li> Implemented a scalable caching service using ASP.NET, CosmosDB, and Azure Storage </li>
+        </ul>"
 
   - company: "Kavoshcom"
     company_url: "https://www.kavoshcom.com/en/productdetail/10091/%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a7%d8%a8%d8%b1%db%8c-%d9%82%d9%84%d8%a8-%d8%b3%d8%a8%d8%b2"
