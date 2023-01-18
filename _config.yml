@@ -55,7 +55,7 @@ work:
       <li> Participated in the design and development of a data analytics system </li>
     </ul>"
   - company: "IAIS"
-#    company_url: ""
+    company_url: "https://iais.ir/"
     role: "Software Engineer"
     start: "2021"
     end: "2019"
@@ -64,7 +64,10 @@ work:
       <li> Implemented a scalable caching service using ASP.NET, CosmosDB, and Azure Storage </li>
     </ul>"
 
-
-projects:
-  - name: Green Heart
-    description: A front-end for heart monitoring dashboard for kavoshcom company.
+  - company: "Kavoshcom"
+    company_url: "https://www.kavoshcom.com/en/productdetail/10091/%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a7%d8%a8%d8%b1%db%8c-%d9%82%d9%84%d8%a8-%d8%b3%d8%a8%d8%b2"
+    role: "UI Developer"
+    start: "2021"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Developed UI for a heart monitoring system using angular framework</li>
+    </ul>"
