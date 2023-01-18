@@ -50,3 +50,6 @@
     {% endif %}
   </div>
 {% endif %}
+{% unless posts_total == 0 %}
+{% include thoughts.html %}
+{% endunless %}
