@@ -86,3 +86,15 @@ work:
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Developed UI for a heart monitoring system using angular framework</li>
     </ul>"
+
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
