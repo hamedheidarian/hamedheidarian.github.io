@@ -47,7 +47,7 @@ social_media:
 
 work:
   - company: "Mahsan"
-    company_url: "mahsan.co"
+    company_url: "https://mahsan.co"
     role: "Software Engineer"
     start: "2022"
     end: "Present"
