@@ -75,8 +75,6 @@ work:
     <li>Brute Force attack prevention system</li>
     <li>BI dashboard</li>
     Implementation of a new invoice system, etc
-          <li> Designed a multi-level job caching mechanism, improved the response time +30 times faster than the baseline model</li>
-          <li> Implemented a scalable caching service using ASP.NET, CosmosDB, and Azure Storage </li>
         </ul>"
 
   - company: "Kavoshcom"
