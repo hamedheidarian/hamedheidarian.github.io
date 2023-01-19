@@ -67,7 +67,6 @@ work:
     Playframework, Hibernate, Postgresql, Angular, Redis and did some
     infrastructure works using Docker, Kubernetes, Nginx as well as some
     development in android client. We strived for developing this product
-    using reactive programming paradigm as much as possible and also
     conforming to clean code and clean architecture principles. Some
     important features designed and developed by me are as follow:</li>
 
