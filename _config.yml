@@ -74,7 +74,7 @@ documentation</li>
     end: "2019"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
 
-        <li>Added features to an e-wallet using Play Framework, Hibernate, Postgresql and Redis and did
+        <li>Added features to <a href=https://moneasy.ir>an e-wallet</a> using Play Framework, Hibernate, Postgresql and Redis and did
             some infrastructure works using Docker, K8s, as well as some development in the android client and
             developed frontend using Angular</li>
 
