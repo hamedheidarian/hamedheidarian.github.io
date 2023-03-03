@@ -9,8 +9,7 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -33,12 +32,10 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
   linkedin: hamed-heidarian
   github: hamedheidarian
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
   stackoverflow: 7723926
   # telegram: your_username
   # twitter: your_username
@@ -54,7 +51,21 @@ work:
     start: "2022"
     end: "Present"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> Participated in the design and development of a data analytics system </li>
+      <li>Participated in the design and implementation of a data analytics software with service-based
+architecture </li>
+    <li>Took charge of implementing many key features such as fine-grained Access control, geospatial search,
+and incremental histograms using technologies such as Spring Framework, Yugabyte DB,
+Elasticsearch</li>
+    <li>Applied BDD testing using Cucumber, Testcontainers, AssertJ</li>
+    <li>Containerized the project and provided service infrastructures such as configured monitoring, ci
+pipeline and orchestration</li>
+    <li>Collaborated in the implementation of the data modeling module</li>
+    <li>Researched and presented solutions to major issues like the selection of database, design of fine-grained
+access control in Elasticsearch, consistency in distributed systems and concurrency issues, best practices
+of tools, etc</li>
+    <li>Improved my knowledge of Agile methodologies and Spring framework ecosystem and skill of
+documentation</li>
+    <li> Contributed with other teams in the company to integrate with their product</li>
     </ul>"
   - company: "IAIS"
     company_url: "https://iais.ir/"
@@ -63,19 +74,29 @@ work:
     end: "2019"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
 
-        <li>Worked as a full-stack developer in Moneasy wallet using Java,
-    Playframework, Hibernate, Postgresql, Angular, Redis and did some
-    infrastructure works using Docker, Kubernetes, Nginx as well as some
-    development in android client. We strived for developing this product
-    conforming to clean code and clean architecture principles. Some
-    important features designed and developed by me are as follow:</li>
+        <li>Added features to an e-wallet using Play Framework, Hibernate, Postgresql and Redis and did
+            some infrastructure works using Docker, K8s, as well as some development in the android client and
+            developed frontend using Angular</li>
 
-    <li>Campaigning and discount codes</li>
-    <li>Shared accounts and force-invoice accounts</li>
-    <li>Brute Force attack prevention system</li>
-    <li>BI dashboard</li>
-    Implementation of a new invoice system, etc
-        </ul>"
+    <li>Some of the features fully designed and developed by me are:
+      <ul>
+        <li> Campaigning and discount codes(with support for network marketing)</li>
+        <li> Shared accounts (accounts that divide all received money to them is between some other accounts</li>
+        by percentage or fixed amount) and force-invoice accounts</li>
+        <li> Brute force attack prevention system(using AOP with support for roles, unauthorized limit, etc)</li>
+        <li> Data warehousing and BI dashboard(using ClickHouse and Metabase), etc</li>
+        <li> Containerized the project and created K8s cluster and configurations</li>
+      </ul>
+    </li>
+
+    <li>Was appointed as deputy of the project’s tech lead in his three months leave</li>
+    <li>Added some features to ticket(multi-stage payment) system</li>
+    <li>Reduced a significant amount of code and development effort by refactoring existing codes (e.g. by using
+    generics)</li>
+    <li> Collaborated in the implementation of the settlement system with Bank and Shapara</li>
+    <li> Added many features to frontend and android client e.g. auto OTP detection as well as bug fixes </li>
+    <li> Fixed bugs reported by customers, Revamped the invoice system, Did load testing with Locust etc </li>
+   </ul>"
 
   - company: "Kavoshcom"
     company_url: "https://www.kavoshcom.com/en/productdetail/10091/%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a7%d8%a8%d8%b1%db%8c-%d9%82%d9%84%d8%a8-%d8%b3%d8%a8%d8%b2"
