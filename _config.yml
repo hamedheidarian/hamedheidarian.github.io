@@ -79,12 +79,12 @@ documentation</li>
             developed frontend using Angular</li>
 
     <li>Some of the features fully designed and developed by me are:
-        – Campaigning and discount codes(with support for network marketing)
-        – Shared accounts (accounts that divide all received money to them is between some other accounts
+        </br>– Campaigning and discount codes(with support for network marketing)
+        </br>– Shared accounts (accounts that divide all received money to them is between some other accounts
         by percentage or fixed amount) and force-invoice accounts
-        – Brute force attack prevention system(using AOP with support for roles, unauthorized limit, etc)
-        – Data warehousing and BI dashboard(using ClickHouse and Metabase), etc
-        – Containerized the project and created K8s cluster and configurations
+        </br>– Brute force attack prevention system(using AOP with support for roles, unauthorized limit, etc)
+        </br>– Data warehousing and BI dashboard(using ClickHouse and Metabase), etc
+        </br>– Containerized the project and created K8s cluster and configurations
     </li>
 
     <li>Was appointed as deputy of the project’s tech lead in his three months leave</li>
